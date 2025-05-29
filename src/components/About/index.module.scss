@@ -1,0 +1,53 @@
+.abtwrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 40px 20px;
+}
+
+.imgcontainer {
+  width: 40%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.abtcontainer {
+  width: 60%;
+  padding: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.AboutUs {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 2px 5px #e0653b;
+  color: #c1bb41;
+}
+
+.image {
+  width: 500px;
+  margin-top: 20px;
+}
+
+.definition {
+  font-size: 18px;
+  color: #e0653b;
+}
+
+.btnwrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  background-color: #e0653b;
+}
